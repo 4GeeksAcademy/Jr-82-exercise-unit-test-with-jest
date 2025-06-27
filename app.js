@@ -7,7 +7,7 @@ const fromEuroToDollar = (a) => {
 }
 
 const fromDollarToYen = (a) => {
-    return a * 144.74;
+    return a * 144.88;
 }
 
 const fromYenToPound = (a) => {
